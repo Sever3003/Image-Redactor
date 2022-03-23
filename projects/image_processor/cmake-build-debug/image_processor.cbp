@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="image_processor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="image_processor">
+				<Option output="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/image_processor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 image_processor"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="image_processor/fast">
+				<Option output="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/image_processor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 image_processor/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/BMP.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/BMP.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/crop_filter.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/crop_filter.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/edge_detection_filter.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/edge_detection_filter.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/gaussian_blur_filter.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/gaussian_blur_filter.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/grayscale_filter.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/grayscale_filter.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/hexagonal_pixel.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/hexagonal_pixel.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/image.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/image.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/image_processor.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/image_processor.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/matrix.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/matrix.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/negative_filter.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/negative_filter.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/sharpening_filter.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/sharpening_filter.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/test.cpp">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/test.h">
+			<Option target="image_processor"/>
+		</Unit>
+		<Unit filename="/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

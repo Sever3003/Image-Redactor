@@ -1,0 +1,3 @@
+/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir

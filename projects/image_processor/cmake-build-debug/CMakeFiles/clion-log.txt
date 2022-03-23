@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/severina/Documents/cpp-base-hse-2022-main-projects-image_processor/projects/image_processor/cmake-build-debug
